@@ -1,4 +1,4 @@
-1. horse.py contains our machne learning model.
+1. horse.py contains our machine learning model.
 
 
 2. appi.py is the script for deploying our model locally using flask.
